@@ -8,4 +8,4 @@ This repository contains my solutions for the Coursera course [TensorFlow: Advan
 
 2. [Week 2: Custom Loss Functions.](Course-1/../Course%201/Week2_Assignment.ipynb)
 3. [Week 3: Custom Layers.](Course-1/../Course%201/Week3_Assignment.ipynb)
-4. [Week 3: Custom Models.](Course-1/../Course%201/Week4_Assignment.ipynb)
+4. [Week 4: Custom Models.](Course-1/../Course%201/Week4_Assignment.ipynb)
