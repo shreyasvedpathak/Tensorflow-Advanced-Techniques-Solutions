@@ -2,8 +2,8 @@
 
 # Tensorflow : Advanced Techniques Solutions
 
-This repository contains my solutions for the Coursera course [TensorFlow: Advanced Techniques Specialization.](https://www.coursera.org/specializations/tensorflow-advanced-techniques)
-
+This repository contains my solutions for the Coursera course [TensorFlow: Advanced Techniques Specialization.](https://www.coursera.org/specializations/tensorflow-advanced-techniques)  
+**Note: Incase any of the notebooks do not load on Github, copy the link of the .ipynb file and paste on this site [https://nbviewer.jupyter.org/](https://nbviewer.jupyter.org/)**
 ## Course 1: Custom Models, Layers, and Loss Functions with TensorFlow
 
 1. [Week 1: Multiple Outputs Model using Keras Functional API.](Course-1/../Course%201/Week1_Assignment.ipynb)
