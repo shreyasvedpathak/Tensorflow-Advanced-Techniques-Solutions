@@ -24,3 +24,5 @@ This repository contains my solutions for the Coursera course [TensorFlow: Advan
 1. [Week 1: Bird Boxes.](Course-3/../Course%203/Week1_Assignment.ipynb)
 2. [Week 2: Zombie Detector Notebook.](Course-3/../Course%203/Week2_Assignment.ipynb)  
    [Week 2: Zombie Detector Submission File: result.data.](Course-3/../Course%203/results.data)
+3. [Week 3: Image Segmentation of Handwritten Digits Notebook.](Course-3/../Course%203/Week3_Assignment.ipynb)  
+   [Week 3: Image Segmentation of Handwritten Digits Submission File: model.h5](Course%203/model.h5)
