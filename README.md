@@ -1,3 +1,4 @@
+
 ![Tensorflow-logo](https://camo.githubusercontent.com/aeb4f612bd9b40d81c62fcbebd6db44a5d4344b8b962be0138817e18c9c06963/68747470733a2f2f7777772e74656e736f72666c6f772e6f72672f696d616765732f74665f6c6f676f5f686f72697a6f6e74616c2e706e67)
 
 # Tensorflow : Advanced Techniques Solutions
@@ -21,8 +22,12 @@ This repository contains my solutions for the Coursera course [TensorFlow: Advan
 
 ## Course 3: Advanced Computer Vision with TensorFlow
 
-1. [Week 1: Bird Boxes.](Course-3/../Course%203/Week1_Assignment.ipynb)
-2. [Week 2: Zombie Detector Notebook.](Course-3/../Course%203/Week2_Assignment.ipynb)  
-   [Week 2: Zombie Detector Submission File: result.data.](Course-3/../Course%203/results.data)
-3. [Week 3: Image Segmentation of Handwritten Digits Notebook.](Course-3/../Course%203/Week3_Assignment.ipynb)  
-   [Week 3: Image Segmentation of Handwritten Digits Submission File: model.h5](Course%203/model.h5)
+1. [Week 1: Bird Boxes.](Course-3/../Course%203/Week%201/)  
+   [![Notebook](https://img.shields.io/badge/-Notebook-blue)](Course-3/../Course%203/Week1_Assignment.ipynb)
+   [![Submission](https://img.shields.io/badge/-birds.h5-brightgreen)](Course-3/../Course%203/birds.h5) 
+2. [Week 2: Zombie Detector.](Course-3/../Course%203/Week%202/)  
+   [![Notebook](https://img.shields.io/badge/-Notebook-blue)](Course-3/../Course%203/Week2_Assignment.ipynb)
+   [![Submission](https://img.shields.io/badge/-results.data-brightgreen)](Course-3/../Course%203/results.data)
+3. [Week 3: Image Segmentation of Handwritten Digits Notebook.](Course-3/../Course%203/Week%203/)  
+   [![Notebook](https://img.shields.io/badge/-Notebook-blue)](Course-3/../Course%203/Week3_Assignment.ipynb)
+   [![Submission](https://img.shields.io/badge/-model.h5-brightgreen)](Course%203/model.h5)
