@@ -12,6 +12,7 @@ This repository contains my solutions for the Coursera course [TensorFlow: Advan
 2. [Week 2: Creating Custom Loss Functions.](Course-1/../Course%201/Week2_Assignment.ipynb)
 3. [Week 3: Implement a Quadratic Layer.](Course-1/../Course%201/Week3_Assignment.ipynb)
 4. [Week 4: Create a VGG Network.](Course-1/../Course%201/Week4_Assignment.ipynb)
+5. [Week 5: Custom Callbacks.](Course-1/../Course%201/../Course%201/Week5_Bonus%20Notebook.ipynb)
 
 ## Course 2: Custom and Distributed Training with TensorFlow
 
