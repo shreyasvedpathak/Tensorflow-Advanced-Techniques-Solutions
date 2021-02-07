@@ -35,3 +35,12 @@ This repository contains my solutions for the Coursera course [TensorFlow: Advan
 4. [Week 4: Dogs vs Cats Saliency Maps.](Course-3/../Course%203/Week%204/)  
    [![Notebook](https://img.shields.io/badge/-Notebook-blue)](Course-3/../Course%203/Week%204/Week4_Assignment.ipynb)
    [![Submission](https://img.shields.io/badge/-images.zip-brightgreen)](Course-3/../Course%203/Week%204/images.zip)
+
+## Course 4: Advanced Computer Vision with TensorFlow
+
+1. [Week 1: Style Transfer Dog.](Course-4/../Course%204/Week%201/)  
+   [![Notebook](https://img.shields.io/badge/-Notebook-blue)](Course-4/../Course%204/Week%201/Week1_Assignment.ipynb)
+   [![Submission](https://img.shields.io/badge/-doggo.png-brightgreen)](Course-4/../Course%204/Week%201/doggo.png) 
+2. [Week 2: AutoEncoder Model Loss and Accuracy.](Course-4/../Course%204/Week%202/)  
+   [![Notebook](https://img.shields.io/badge/-Notebook-blue)](Course-4/../Course%204/Week%202/Week2_Assignment.ipynb)
+   [![Submission](https://img.shields.io/badge/-mymodel.h5-brightgreen)](Course-4/../Course%204/Week%202/mymodel.h5)
