@@ -36,7 +36,7 @@ This repository contains my solutions for the Coursera course [TensorFlow: Advan
    [![Notebook](https://img.shields.io/badge/-Notebook-blue)](Course-3/../Course%203/Week%204/Week4_Assignment.ipynb)
    [![Submission](https://img.shields.io/badge/-images.zip-brightgreen)](Course-3/../Course%203/Week%204/images.zip)
 
-## Course 4: Advanced Computer Vision with TensorFlow
+## Course 4: Generative Deep Learning with TensorFlow
 
 1. [Week 1: Style Transfer Dog.](Course-4/../Course%204/Week%201/)  
    [![Notebook](https://img.shields.io/badge/-Notebook-blue)](Course-4/../Course%204/Week%201/Week1_Assignment.ipynb)
