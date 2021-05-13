@@ -4,7 +4,13 @@
 # Tensorflow : Advanced Techniques Solutions
 
 This repository contains my solutions for the Coursera course [TensorFlow: Advanced Techniques Specialization.](https://www.coursera.org/specializations/tensorflow-advanced-techniques)  
-**Note: Incase any of the notebooks do not load on Github, copy the link of the .ipynb file and paste on this site [https://nbviewer.jupyter.org/](https://nbviewer.jupyter.org/)**
+
+Incase any of the notebooks are not visible on GitHub, open in Colab:
+
+
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/shreyasvedpathak/Tensorflow-Advanced-Techniques-Solutions/blob/master)
+
 
 ## Course 1: Custom Models, Layers, and Loss Functions with TensorFlow
 
