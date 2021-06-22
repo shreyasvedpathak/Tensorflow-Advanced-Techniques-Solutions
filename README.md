@@ -3,7 +3,7 @@
 
 # Tensorflow : Advanced Techniques Solutions
 
-This repository contains my solutions for the Coursera course [TensorFlow:[Advanced Techniques Specialization.](https://www.coursera.org/specializations/tensorflow-advanced-techniques)  
+This repository contains my solutions for the Coursera course [TensorFlow: Advanced Techniques Specialization.](https://www.coursera.org/specializations/tensorflow-advanced-techniques)  
 
 Incase any of the notebooks are not visible on GitHub, open in Colab:
 
